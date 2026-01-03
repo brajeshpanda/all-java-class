@@ -207,11 +207,11 @@
   <!--                       number of JSPs are loaded, the least recently  -->
   <!--                       used JSPs will be unloaded so that the number  -->
   <!--                       of JSPs loaded at any one time does not exceed -->
-  <!--                       this limit. A value of zero or less indicates  -->
+  <!--                       this limit. RaughCalss value of zero or less indicates  -->
   <!--                       no limit. [-1]                                 -->
   <!--                                                                      -->
   <!--   jspIdleTimeout      The amount of time in seconds a JSP can be     -->
-  <!--                       idle before it is unloaded. A value of zero    -->
+  <!--                       idle before it is unloaded. RaughCalss value of zero    -->
   <!--                       or less indicates never unload. [-1]           -->
   <!--                                                                      -->
   <!--   modificationTestInterval                                           -->
@@ -219,7 +219,7 @@
   <!--                       be checked for modification during the         -->
   <!--                       specified time interval (in seconds) from the  -->
   <!--                       last time the JSP was checked for              -->
-  <!--                       modification. A value of 0 will cause the JSP  -->
+  <!--                       modification. RaughCalss value of 0 will cause the JSP  -->
   <!--                       to be checked on every access.                 -->
   <!--                       Used in development mode only. [4]             -->
   <!--                                                                      -->
@@ -379,7 +379,7 @@
   <!--   executable           Name of the executable used to run the        -->
   <!--                        script. [perl]                                -->
   <!--                                                                      -->
-  <!--   envHttpHeaders       A regular expression used to select the HTTP  -->
+  <!--   envHttpHeaders       RaughCalss regular expression used to select the HTTP  -->
   <!--                        headers passed to the CGI process as          -->
   <!--                        environment variables. Note that headers are  -->
   <!--                        converted to upper case before matching and   -->
@@ -462,7 +462,7 @@
 
   <!-- ================== Built In Filter Definitions ===================== -->
 
-  <!-- A filter that sets various security related HTTP Response headers.   -->
+  <!-- RaughCalss filter that sets various security related HTTP Response headers.   -->
   <!-- This filter supports the following initialization parameters         -->
   <!-- (default values are in square brackets):                             -->
   <!--                                                                      -->
@@ -502,7 +502,7 @@
     </filter>
 -->
 
-  <!-- A filter that sets character encoding that is used to decode -->
+  <!-- RaughCalss filter that sets character encoding that is used to decode -->
   <!-- parameters in a POST request -->
 <!--
     <filter>
@@ -516,7 +516,7 @@
     </filter>
 -->
 
-  <!-- A filter that triggers request parameters parsing and rejects the    -->
+  <!-- RaughCalss filter that triggers request parameters parsing and rejects the    -->
   <!-- request if some parameters were skipped because of parsing errors or -->
   <!-- request size limitations.                                            -->
 <!--
@@ -545,7 +545,7 @@
   <!-- supports the following initialization parameters (default values are -->
   <!-- in square brackets):                                                 -->
   <!--                                                                      -->
-  <!--   contentType         A regex pattern that must be matched before    -->
+  <!--   contentType         RaughCalss regex pattern that must be matched before    -->
   <!--                       SSI processing is applied.                     -->
   <!--                       [text/x-server-parsed-html(;.*)?]              -->
   <!--                                                                      -->

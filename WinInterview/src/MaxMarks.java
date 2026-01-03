@@ -1,7 +1,6 @@
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
+import java.util.stream.Collectors;
 
 class Student {
     private String name;
@@ -18,6 +17,13 @@ class Student {
 
     public int getMarks() {
         return marks;
+    }
+    @Override
+    public String toString() {
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", marks=" + marks +
+                '}';
     }
 }
 
@@ -36,11 +42,8 @@ public class MaxMarks {
                 .findFirst()
                 .orElse(null);
 
-        if (studentWithMaxMarks != null) {
-            System.out.println("Student with max marks: " + studentWithMaxMarks.getName() +
-                    ", Marks: " + studentWithMaxMarks.getMarks());
-        } else {
-            System.out.println("No students in the list.");
-        }
+        System.out.println(studentWithMaxMarks);
+
+
     }
 }

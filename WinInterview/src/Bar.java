@@ -1,19 +1,21 @@
 interface Foo {
-String name ="Foo";
+     String name ="Foo";
 
-void print();
+    void print();
 }
 
 class Bar implements Foo {
 
-String name = "Bar";
+    String name = "Bar";
 
-public void print()
-{ 
-	System.out.println(name); // Line 1
+    public void print()
+    {
+        System.out.println(name);
+    }
+
+    public static void main(String[] args) {
+        Foo foo= new Bar();
+        foo.print();
+        System.out.println(Foo.name);
+    }
 }
-
-public static void main(String[] args) { 
-  Foo foo= new Bar(); // Line 2
-  foo.print(); // Line 3
-}}

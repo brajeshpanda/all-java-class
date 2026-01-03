@@ -5,21 +5,15 @@
       <module fileurl="file://$PROJECT_DIR$/WInterview/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/WInterview/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstraction1/Abstraction1.iml" filepath="$PROJECT_DIR$/Abstraction1/Abstraction1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/All Interview Problem/All Interview Problem.iml" filepath="$PROJECT_DIR$/All Interview Problem/All Interview Problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BP/BP.iml" filepath="$PROJECT_DIR$/BP/BP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection2/Collection2.iml" filepath="$PROJECT_DIR$/Collection2/Collection2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comparable/Comparable.iml" filepath="$PROJECT_DIR$/Comparable/Comparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comparable1/Comparable1.iml" filepath="$PROJECT_DIR$/Comparable1/Comparable1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comparator_Example/Comparator_Example.iml" filepath="$PROJECT_DIR$/Comparator_Example/Comparator_Example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EvenNumber/EvenNumber.iml" filepath="$PROJECT_DIR$/EvenNumber/EvenNumber.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Generics_example/Generics_example.iml" filepath="$PROJECT_DIR$/Generics_example/Generics_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/InnerOuterClasses/InnerOuterClasses.iml" filepath="$PROJECT_DIR$/InnerOuterClasses/InnerOuterClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/J2SE.iml" filepath="$PROJECT_DIR$/J2SE.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaProject1/JavaProject1.iml" filepath="$PROJECT_DIR$/JavaProject1/JavaProject1.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberCheck1/NumberCheck1.iml" filepath="$PROJECT_DIR$/NumberCheck1/NumberCheck1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Override/Override.iml" filepath="$PROJECT_DIR$/Override/Override.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pattern1/Pattern1.iml" filepath="$PROJECT_DIR$/Pattern1/Pattern1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Servers/Servers.iml" filepath="$PROJECT_DIR$/Servers/Servers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
@@ -28,7 +22,6 @@
       <module fileurl="file://$PROJECT_DIR$/StringToken/StringToken.iml" filepath="$PROJECT_DIR$/StringToken/StringToken.iml" />
       <module fileurl="file://$PROJECT_DIR$/THROWS_THROW_EXCEPTION/THROWS_THROW_EXCEPTION.iml" filepath="$PROJECT_DIR$/THROWS_THROW_EXCEPTION/THROWS_THROW_EXCEPTION.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Thread_1/Thread_1.iml" filepath="$PROJECT_DIR$/Thread_1/Thread_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/WinInterview/WinInterview.iml" filepath="$PROJECT_DIR$/WinInterview/WinInterview.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_java_1/app_java_1.iml" filepath="$PROJECT_DIR$/app_java_1/app_java_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_java_2/app_java_2.iml" filepath="$PROJECT_DIR$/app_java_2/app_java_2.iml" />
@@ -41,7 +34,6 @@
       <module fileurl="file://$PROJECT_DIR$/project_demo_2/project_demo_2.iml" filepath="$PROJECT_DIR$/project_demo_2/project_demo_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/registration/registration.iml" filepath="$PROJECT_DIR$/registration/registration.iml" />
       <module fileurl="file://$PROJECT_DIR$/registration_app/registration_app.iml" filepath="$PROJECT_DIR$/registration_app/registration_app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/student/student.iml" filepath="$PROJECT_DIR$/student/student.iml" />
       <module fileurl="file://$PROJECT_DIR$/wait_notify/wait_notify.iml" filepath="$PROJECT_DIR$/wait_notify/wait_notify.iml" />
       <module fileurl="file://$PROJECT_DIR$/web_app3/web_app3.iml" filepath="$PROJECT_DIR$/web_app3/web_app3.iml" />
       <module fileurl="file://$PROJECT_DIR$/web_app_1/web_app_1.iml" filepath="$PROJECT_DIR$/web_app_1/web_app_1.iml" />
